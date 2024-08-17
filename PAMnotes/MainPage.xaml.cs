@@ -12,7 +12,7 @@ namespace PAMnotes
      
             if (File.Exists(filePath) == true) 
             {
-                NoteEditor.Text = File.ReadAllText(filePath);
+                 NoteEditor.Text = File.ReadAllText(filePath);
              }
         }
 

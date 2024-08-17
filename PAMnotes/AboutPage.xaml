@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PAMnotes.AboutPage"
+             Title="AboutPage">
+    <VerticalStackLayout>
+        <Label 
+            Text="Projeto feito por Nayda Hagar Luna M."
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Button
+            x:Name="AboutButton"
+            Text="Clique aqui para saber mais!"
+            Clicked="AboutButton_Clicked"/>
+        
+    </VerticalStackLayout>
+</ContentPage>

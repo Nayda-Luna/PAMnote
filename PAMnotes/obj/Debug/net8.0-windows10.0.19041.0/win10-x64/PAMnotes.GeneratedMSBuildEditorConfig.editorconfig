@@ -12,6 +12,12 @@ build_property.ProjectDir = D:\2DSGabrielLima\PAM\PAMnotes\PAMnotes\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
+[D:/2DSGabrielLima/PAM/PAMnotes/PAMnotes/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PAMnotes.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
+
 [D:/2DSGabrielLima/PAM/PAMnotes/PAMnotes/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PAMnotes.App.xaml

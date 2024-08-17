@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\2DSGabrielLima\PAM\PAMnotes\PAMnotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-10T01:47:06.479</Modified>
+      <Modified>2024-08-17T01:07:29.601</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\2DSGabrielLima\PAM\PAMnotes\PAMnotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-08-09T23:03:46.871</Modified>
+      <Modified>2024-08-17T00:59:43.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DSGabrielLima\PAM\PAMnotes\PAMnotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMnotes.runtimeconfig.json">
       <PackagePath>PAMnotes.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DSGabrielLima\PAM\PAMnotes\PAMnotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMnotes.dll">
       <PackagePath>PAMnotes.dll</PackagePath>
-      <Modified>2024-08-10T01:47:06.194</Modified>
+      <Modified>2024-08-17T01:07:29.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DSGabrielLima\PAM\PAMnotes\PAMnotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PAMnotes.exe</PackagePath>
-      <Modified>2024-08-10T01:47:06.197</Modified>
+      <Modified>2024-08-17T01:07:29.336</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DSGabrielLima\PAM\PAMnotes\PAMnotes\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DSGabrielLima\PAM\PAMnotes\PAMnotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMnotes.deps.json">
       <PackagePath>PAMnotes.deps.json</PackagePath>
-      <Modified>2024-08-09T23:03:46.512</Modified>
+      <Modified>2024-08-17T00:59:43.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
